@@ -1,0 +1,5 @@
+# numeric_domains extension
+comment = 'Numeric domains'
+default_version = '1.0'
+relocatable = true
+superuser = false
