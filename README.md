@@ -5,7 +5,7 @@ A PostgreSQL extension defining custom numeric domains
 
 ### Prerequisites
 
-This extension expects the latest version of PostgreSQL, but should work for all recent versions.
+This extension was developed using PostgreSQL 10, but should work for all recent versions.
 
 ### Installation
 
